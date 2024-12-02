@@ -5,7 +5,7 @@
 
 ## Couleur :
   ### Principaux :
-  **Blanc #FFFFFF :** Utilisé comme couleur de fond pour assurer une interface propre et lumineuse.
+  **Blanc #FFFFFF :** Utilisé comme couleur de fond pour assurer une interface propre et lumineuse. <br/>
   **Gris clair #F2F2F2 :** Pour les arrière-plans secondaires ou les bordures des sections.
   **Bleu clair #5A9BD5 :** utilisé pour les en-têtes, barres de navigation ou boutons principaux.
   **Vert pastel #81C784 :** Pour des indicateurs de succès (par exemple, patient ajouté avec succès ), il peut être utilisé aussi pour les boutons.
