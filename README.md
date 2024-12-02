@@ -15,12 +15,12 @@
   **Bleu foncé #424088 :** Pour les textes principaux ou éléments qui nécessitent un contraste élevé.
   **Noir :** #101023
   
-##Alerte :
+## Alerte :
   **Orange #FFA726 :** Pour des avertissements.
   **Rouge #E57373 :** Pour les erreurs ou des alertes importantes.
   **Jaune pâle #FFF176 :** Pour attirer l'attention sur des informations critiques sans alarmer.
 
-##Police:
+## Police:
   **Titres :** Montserrat/SemiBold /Taille:33,18.
   **Sous titres :** Poppins/Regular/Taille:19,2.
   **Texte :** Poppins/Regular/Taille:16.
