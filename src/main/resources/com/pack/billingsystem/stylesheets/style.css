@@ -23,3 +23,11 @@
     -fx-font-weight: bold;
     -fx-font-size: 19.2px;
 }
+
+#stage {
+    -fx-background-color:'white';
+}
+
+#line {
+    -fx-fill: 'gray';
+}
