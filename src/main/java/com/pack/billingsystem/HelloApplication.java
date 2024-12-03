@@ -10,7 +10,7 @@ import java.io.IOException;
 public class HelloApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("NewFxmlFile.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("BillsList.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 1100, 700);
         String css = getClass().getResource("stylesheets/style.css").toExternalForm();
         stage.setResizable(false);
