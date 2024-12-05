@@ -31,3 +31,19 @@
 #line {
     -fx-fill: 'gray';
 }
+
+#searchBtn {
+    -fx-font-family: 'Poppins';
+}
+
+#deleteBtn {
+    -fx-font-family: 'Poppins';
+}
+
+#deleteAllBtn {
+    -fx-font-family: 'Poppins';
+}
+
+#refreshBtn {
+    -fx-font-family: 'Poppins';
+}
